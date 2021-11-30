@@ -16,9 +16,11 @@ sudo ./server
 ./client
 ```
 You can look up the user's username and password through `account.txt`
+<br>
 
 ## Additional features
 1. `ls` will display whether the user is in-game.
 2. Client users can't send a battle invitation to the users in the game.
 3. The user of the client can refuse the invitation to play the game.
 4. Support multi-person chat. 
+<br>
